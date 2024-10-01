@@ -2,7 +2,7 @@
 // Si es así, las cargamos en la lista. Esta función inicializa nuestra lista de tareas.
 function loadTasksFromLocalStorage() {
     // Intentamos obtener las tareas guardadas como un string JSON
-    
+        
     // Recorremos las tareas cargadas y las agregamos visualmente al <ul>
 }
 
